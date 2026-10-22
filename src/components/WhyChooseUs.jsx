@@ -66,8 +66,11 @@ export default function WhyChooseUs() {
 
         <div className="why-us-values">
           <article className="why-us-value">
-            <h3>Our mission</h3>
-            <p>To make every space greener with expert plant care, affordable gardening and professional service.</p>
+            <h3>HORTIGARD – OUR MISSION</h3>
+            <p>Growing Green Spaces. Growing Healthier Lives.</p>
+            <p>At HortiGard, we believe every plant makes a difference. We bring nature closer to your home and workplace through expert plant care and sustainable gardening solutions. </p>
+            <p>Together, we can create cleaner surroundings, reduce dust, breathe fresher air, and build a Greener India for our children and future generations. </p>
+            <p>Let's Grow Green. Let's Grow Together. </p>
           </article>
           <article className="why-us-value">
             <h3>Our promise</h3>

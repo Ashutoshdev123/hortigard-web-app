@@ -3,8 +3,7 @@ import { getWhatsAppUrl } from '../utils/whatsapp';
 
 const TRUST_POINTS = [
   'Background verified mali',
-  'Organic fertilizers included',
-  'Plant replacement guarantee',
+  'Organic fertilizers included'
 ];
 
 function CheckIcon() {
